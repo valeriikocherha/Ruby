@@ -80,13 +80,3 @@ class Train
     end
   end
 end
-
-#train = Train.new(1, "pass", 18)
-#train.car_count
-#train.instant_speed
-#train.accelerate
-#train.stop
-#train.add_car
-#train.remove_car
-#route = Route.new('Lisova', 'Academic_town')
-#train.take_route(route)
